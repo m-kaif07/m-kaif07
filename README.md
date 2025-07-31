@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-kaif07
-- 👀 I’m interested in Fullstack Web development, Computer vision, and Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Computer vision, Data Sciencew and Deep Learning
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me, mkaifcse18@gmail.com is my email. You can contact me through this.
 
 <!---
